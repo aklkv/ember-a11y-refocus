@@ -11,6 +11,11 @@
   "repository": "https://github.com/ember-a11y/ember-a11y-refocus",
   "license": "MIT",
   "author": "Melanie Sumner <melaniersumner@gmail.com>",
+  "contributors": [
+    {
+      "name": "Alexey Kulakov"
+    }
+  ],
   "exports": {
     ".": {
       "types": "./declarations/index.d.ts",
