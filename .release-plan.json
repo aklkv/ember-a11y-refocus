@@ -2,8 +2,8 @@
   "solution": {
     "ember-a11y-refocus": {
       "impact": "minor",
-      "oldVersion": "5.1.0",
-      "newVersion": "5.2.0",
+      "oldVersion": "5.2.0",
+      "newVersion": "5.3.0",
       "tagName": "latest",
       "constraints": [
         {
@@ -18,5 +18,5 @@
       "pkgJSONPath": "./addon/package.json"
     }
   },
-  "description": "## Release (2026-02-19)\n\n* ember-a11y-refocus 5.2.0 (minor)\n\n#### :rocket: Enhancement\n* `ember-a11y-refocus`\n  * [#412](https://github.com/ember-a11y/ember-a11y-refocus/pull/412) chore: bump packages and convert test-app to strict template tag ([@aklkv](https://github.com/aklkv))\n\n#### :house: Internal\n* `ember-a11y-refocus`\n  * [#412](https://github.com/ember-a11y/ember-a11y-refocus/pull/412) chore: bump packages and convert test-app to strict template tag ([@aklkv](https://github.com/aklkv))\n  * [#425](https://github.com/ember-a11y/ember-a11y-refocus/pull/425) [internal] resolve frozen lockfile ([@MelSumner](https://github.com/MelSumner))\n* Other\n  * [#424](https://github.com/ember-a11y/ember-a11y-refocus/pull/424) [internal] update release-plan ([@MelSumner](https://github.com/MelSumner))\n\n#### Committers: 2\n- Alexey Kulakov ([@aklkv](https://github.com/aklkv))\n- Melanie Sumner ([@MelSumner](https://github.com/MelSumner))\n"
+  "description": "## Release (2026-02-21)\n\n* ember-a11y-refocus 5.3.0 (minor)\n\n#### :rocket: Enhancement\n* `ember-a11y-refocus`\n  * [#412](https://github.com/ember-a11y/ember-a11y-refocus/pull/412) chore: bump packages and convert test-app to strict template tag ([@aklkv](https://github.com/aklkv))\n  * [#415](https://github.com/ember-a11y/ember-a11y-refocus/pull/415) Simplified importing styles ([@ijlee2](https://github.com/ijlee2))\n\n#### :memo: Documentation\n* [#416](https://github.com/ember-a11y/ember-a11y-refocus/pull/416) allow github code highlighting for gjs example ([@mansona](https://github.com/mansona))\n\n#### :house: Internal\n* `ember-a11y-refocus`\n  * [#421](https://github.com/ember-a11y/ember-a11y-refocus/pull/421) Prepare Release v5.2.0 ([@github-actions[bot]](https://github.com/apps/github-actions))\n  * [#412](https://github.com/ember-a11y/ember-a11y-refocus/pull/412) chore: bump packages and convert test-app to strict template tag ([@aklkv](https://github.com/aklkv))\n  * [#425](https://github.com/ember-a11y/ember-a11y-refocus/pull/425) [internal] resolve frozen lockfile ([@MelSumner](https://github.com/MelSumner))\n  * [#408](https://github.com/ember-a11y/ember-a11y-refocus/pull/408) Prepare Release v5.1.0 ([@github-actions[bot]](https://github.com/apps/github-actions))\n* Other\n  * [#424](https://github.com/ember-a11y/ember-a11y-refocus/pull/424) [internal] update release-plan ([@MelSumner](https://github.com/MelSumner))\n\n#### Committers: 5\n- Alexey Kulakov ([@aklkv](https://github.com/aklkv))\n- Chris Manson ([@mansona](https://github.com/mansona))\n- GitHub Actions [Bot] ([@github-actions](https://github.com/apps/github-actions))\n- Isaac Lee ([@ijlee2](https://github.com/ijlee2))\n- Melanie Sumner ([@MelSumner](https://github.com/MelSumner))\n"
 }
